@@ -11,6 +11,7 @@ package studentobjecttester;
  */
 public class StudentObject {
     private String name;
+    private int studentId;
 
     /**
      * @return the name
@@ -26,6 +27,20 @@ public class StudentObject {
      */
     public void setName(String name) {
         this.name = name;
+    }
+
+    /**
+     * @return the studentId
+     */
+    public int getStudentId() {
+        return studentId;
+    }
+
+    /**
+     * @param studentId the studentId to set
+     */
+    public void setStudentId(int studentId) {
+        this.studentId = studentId;
     }
     
     
