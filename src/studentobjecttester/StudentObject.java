@@ -13,6 +13,8 @@ package studentobjecttester;
 public class StudentObject {
     private String name;
     private int studentId;
+    
+    private int value;
 
     /**
      * @return the name
