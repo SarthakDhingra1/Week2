@@ -8,6 +8,7 @@ package studentobjecttester;
 /**
  *
  * @author sarth
+ *Date-31 Jan ,2019
  */
 public class StudentObject {
     private String name;
